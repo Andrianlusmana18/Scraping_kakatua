@@ -1,0 +1,32 @@
+================================================================================
+LAPORAN RINGKASAN HASIL WEB SCRAPING - PENERBIT KAKATUA
+Tugas UTS Automation Systems - Teknik Informatika Universitas Pelita Bangsa
+================================================================================
+Waktu Eksekusi    : 08-11-2026 17:54:35 WIB
+Sumber Data       : https://penerbitkakatua.com/shop/
+Kata Kunci Filter : filsafat
+Total Data Buku   : 2 judul
+
+STATISTIK HARGA:
+- Harga Terendah  : Rp 47,500
+- Harga Tertinggi : Rp 66,500
+- Harga Rata-rata : Rp 57,000
+
+STATISTIK KETERSEDIAAN STOK:
+- Buku Tersedia   : 2 judul
+- Buku Habis      : 0 judul
+
+DISTRIBUSI KATEGORI:
+- Nonfiksi                 :   2 judul (100.0%)
+
+================================================================================
+SAMPLE DATA BUKU HASIL SCRAPING (10 Data Pertama):
+================================================================================
+[01] Bertrand Russell - Persoalan-Persoalan Filsafat
+     Kategori: Nonfiksi | Harga: Rp 66,500 (Diskon: 5%) | Stok: Tersedia
+     Tautan  : https://penerbitkakatua.com/product/bertrand-russell-persoalan-persoalan-filsafat/
+
+[02] René Descartes - Meditasi Filsafat Pertama
+     Kategori: Nonfiksi | Harga: Rp 47,500 (Diskon: 5%) | Stok: Tersedia
+     Tautan  : https://penerbitkakatua.com/product/rene-descartes-meditasi-filsafat-pertama/
+

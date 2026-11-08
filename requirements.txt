@@ -1,0 +1,6 @@
+# Dependencies untuk Proyek UTS Automation Systems
+# Penerbit Kakatua Book Catalog Scraper
+
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+reportlab>=4.0.0
