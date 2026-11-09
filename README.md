@@ -2,6 +2,14 @@
 
 Proyek Otomatisasi Scraping Katalog Buku Digital untuk memenuhi **Ujian Tengah Semester (UTS) Mata Kuliah Automation Systems**, Semester Genap TA 2025/2026, Program Studi Teknik Informatika, Fakultas Teknik, **Universitas Pelita Bangsa**.
 
+**Disusun oleh:**
+
+| Nama | NIM |
+|---|---:|
+| Andrian Lusmana | 312310199 |
+| Aldi Hermansyah | 312310200 |
+| Dzikry Eza Yusuf | 312310731 |
+
 Dosen Pengampu: **Anggi Muhammad Rifa’i, M.Kom**  
 Tema Proyek: **Online Book Catalog Organizer**  
 Target Website: [Penerbit Kakatua](https://penerbitkakatua.com/shop/) (Murni HTML Scraping, Non-API)
